@@ -7,7 +7,7 @@
     "test": "mocha"
   },
   "dependencies": {
-    "william-rowan-hamilton": "~1.0.0",
+    "william-rowan-hamilton": "1.0.0",
     "lodash": "4.17.21"
   },
   "author": "jidemoto",
